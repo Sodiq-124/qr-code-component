@@ -47,3 +47,12 @@ body {
   padding: 0 15px;
   margin-bottom: 20px;
 }
+
+.attribution {
+  text-align:center;
+  margin: 20px;
+}
+
+.attribution a {
+  text-decoration: none;
+}
